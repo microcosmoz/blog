@@ -13,7 +13,7 @@ disqusShortname = ""
 SectionPagesMenu = "main"
 
 # use Chroma for syntax highlight
-pygmentsStyle = "native" # other dark style options: vim, fruity, monokai
+pygmentsStyle = "vim" # other dark style options: vim, fruity, monokai
 # enable syntax highlight for code blocks
 pygmentsCodeFences = true
 
@@ -28,6 +28,13 @@ pygmentsCodeFences = true
   weight = -110
   identifier = "tag"
   url = "/tags/"
+
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "//00/about/"
+  weight = -100
+  # pre = "<i class='fa fa-info-circle'></i>"
 
 [author]
   name = ""
