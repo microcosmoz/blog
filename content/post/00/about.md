@@ -1,9 +1,8 @@
 ---
 title: "About This Blog"
-date: 2018-05-05T22:11:27+09:00
+date: 2018-05-05
 draft: false
 ---
-
 
 ## About Me
 ・非エンジニア＠つくば
@@ -11,9 +10,9 @@ draft: false
 ・[Twitter](https://twitter.com/mikrocosmoz)
 
 ------
-気になる技術について書いていきます。
+趣味としてのプログラミング、宇宙開発、文芸に関することを書きたい。
 
-言語はこの辺り使ってます。
-・C++
+使える言語
+・C++(特にmpi周り)
 ・Python
 ・Haskel(learnig...)
