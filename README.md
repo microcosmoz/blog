@@ -1,1 +1,2 @@
-# blog
+# blog URL
+https://microcosmoz.github.io
