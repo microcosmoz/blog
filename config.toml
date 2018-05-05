@@ -32,12 +32,12 @@ pygmentsCodeFences = true
 [[menu.main]]
   name = "About"
   identifier = "about"
-  url = "//00/about/"
+  url = "/post/00/about.md"
   weight = -100
   # pre = "<i class='fa fa-info-circle'></i>"
 
 [author]
-  name = ""
+  name = "mikrocosmoz"
 
 [params.meta]
   keywords = ""
