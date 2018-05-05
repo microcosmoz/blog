@@ -1,8 +1,9 @@
 ---
 title: "First_content"
-date: 2018-05-05T21:31:26+09:00
-draft: true
+date: 2018-05-05
+draft: false
 categories: ["diary"]
 tags: ["diary"]
 ---
 
+はじめての日記

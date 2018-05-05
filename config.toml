@@ -5,6 +5,7 @@ languageCode = "ja-jp"
 canonifyurls = true
 paginate = 3
 theme = "hugo-dusk"
+hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
 
 googleAnalytics = ""
 disqusShortname = ""
