@@ -32,7 +32,7 @@ pygmentsCodeFences = true
 [[menu.main]]
   name = "About"
   identifier = "about"
-  url = "/post/00/"
+  url = "//00/about/"
   weight = -100
   # pre = "<i class='fa fa-info-circle'></i>"
 
