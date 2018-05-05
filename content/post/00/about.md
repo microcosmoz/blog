@@ -10,9 +10,10 @@ draft: false
 ・[Twitter](https://twitter.com/mikrocosmoz)
 
 ------
-趣味としてのプログラミング、宇宙開発、文芸に関することを書きたい。
+修士まで惑星科学(惑星形成理論)を勉強していましたが働き始めました(2018.04-)。
+趣味程度のプログラミング、宇宙開発、読んだ本に関することを書こうと思っています。
 
 使える言語
+・Fortran
 ・C++(特にmpi周り)
-・Python
-・Haskel(learnig...)
+・Python(learnig...)
